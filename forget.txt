@@ -12,3 +12,10 @@ shadowsockets
 	chacha20
 
 eclipse pengsiyuan911213
+
+svn:psy/psy666
+https://src.allpos.cn:888/svn/
+
+https://src.allpos.cn:888/svn/loris
+https://src.allpos.cn:888/svn/collie-shop/trunk
+https://www.allpos.cn:888/svn/pcmall/trunk
