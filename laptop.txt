@@ -1,0 +1,10 @@
+ThinkPad X270（20K6A00YCD）
+
+linux使用
+https://www.unixmen.com/
+
+https://src.allpos.cn:888/svn/vmeal/trunk
+
+https://src.allpos.cn:888/svn/loris
+
+https://src.allpos.cn:888/svn/collie-shop/trunk
